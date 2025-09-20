@@ -1,0 +1,41 @@
+.user-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 12px;
+  background: white;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.user-card:hover {
+  transform: scale(1.03);
+}
+
+.user-card img {
+  width: 80px;
+  border-radius: 50%;
+}
+
+.actions {
+  margin-top: 10px;
+}
+
+.actions button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.actions button:first-child {
+  background: #007bff;
+  color: white;
+}
+
+.actions button:last-child {
+  background: #dc3545;
+  color: white;
+}
