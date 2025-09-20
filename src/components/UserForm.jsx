@@ -28,11 +28,11 @@ export default function UserForm({ onSubmit, defaultValues = {}, isEditing }) {
       <div className="grid-2">
         <input
           {...register("first_name", { required: true })}
-          placeholder="First Name"
+          placeholder="Nombre"
         />
         <input
           {...register("last_name", { required: true })}
-          placeholder="Last Name"
+          placeholder="Apellido"
         />
       </div>
 
@@ -45,13 +45,13 @@ export default function UserForm({ onSubmit, defaultValues = {}, isEditing }) {
         <input
           {...register("password", { required: true })}
           type="password"
-          placeholder="Password"
+          placeholder="Contraseña"
         />
       </div>
 
       <div className="grid-2">
         <input {...register("birthday", { required: true })} type="date" />
-        <input {...register("image_url")} placeholder="Image URL (opcional)" />
+        <input {...register("image_url")} placeholder="URL imagen (opcional)" />
       </div>
 
       <button

@@ -8,8 +8,8 @@ export default function UserCard({ user, onEdit, onDelete }) {
       <p>{user.email}</p>
       <p>🎂 {user.birthday}</p>
       <div className="actions">
-        <button onClick={() => onEdit(user)}>✏️ Edit</button>
-        <button onClick={() => onDelete(user.id)}>🗑️ Delete</button>
+        <button onClick={() => onEdit(user)}>✏️ Editar</button>
+        <button onClick={() => onDelete(user.id)}>🗑️ Eliminar</button>
       </div>
     </div>
   );

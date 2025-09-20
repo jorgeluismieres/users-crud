@@ -41,7 +41,7 @@ export default function UsersPage() {
 
   return (
     <div style={{ maxWidth: 1100, margin: "0 auto", padding: "1.5rem" }}>
-      <h1 style={{ marginBottom: "1rem" }}>Users CRUD</h1>
+      <h1 style={{ marginBottom: "1rem" }}>Registro de usuarios</h1>
 
       {error && (
         <div
