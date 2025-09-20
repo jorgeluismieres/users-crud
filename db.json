@@ -1,0 +1,148 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "email": "camila.lopez@example.com",
+      "password": "Password123!",
+      "first_name": "Camila",
+      "last_name": "Lopez",
+      "birthday": "1998-03-21",
+      "image_url": "https://i.pravatar.cc/150?img=2"
+    },
+    {
+      "id": 4,
+      "email": "sofia.ramirez@example.com",
+      "password": "Password123!",
+      "first_name": "Sofia",
+      "last_name": "Ramirez",
+      "birthday": "1992-11-09",
+      "image_url": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "id": 6,
+      "email": "lucia.gomez@example.com",
+      "password": "Password123!",
+      "first_name": "Lucia",
+      "last_name": "Gomez",
+      "birthday": "1999-07-15",
+      "image_url": "https://i.pravatar.cc/150?img=6"
+    },
+    {
+      "id": 7,
+      "email": "bruno.alvarez@example.com",
+      "password": "Password123!",
+      "first_name": "Bruno",
+      "last_name": "Alvarez",
+      "birthday": "1988-10-05",
+      "image_url": "https://i.pravatar.cc/150?img=7"
+    },
+    {
+      "id": 8,
+      "email": "martina.rojas@example.com",
+      "password": "Password123!",
+      "first_name": "Martina",
+      "last_name": "Rojas",
+      "birthday": "1997-02-18",
+      "image_url": "https://i.pravatar.cc/150?img=8"
+    },
+    {
+      "id": 9,
+      "email": "julieta.navarro@example.com",
+      "password": "Password123!",
+      "first_name": "Julieta",
+      "last_name": "Navarro",
+      "birthday": "1995-06-23",
+      "image_url": "https://i.pravatar.cc/150?img=9"
+    },
+    {
+      "id": 10,
+      "email": "agustin.duarte@example.com",
+      "password": "Password123!",
+      "first_name": "Agustin",
+      "last_name": "Duarte",
+      "birthday": "1991-12-02",
+      "image_url": "https://i.pravatar.cc/150?img=10"
+    },
+    {
+      "id": 11,
+      "email": "nicolas.benitez@example.com",
+      "password": "Password123!",
+      "first_name": "Nicolas",
+      "last_name": "Benitez",
+      "birthday": "1989-09-14",
+      "image_url": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": 12,
+      "email": "pilar.sosa@example.com",
+      "password": "Password123!",
+      "first_name": "Pilar",
+      "last_name": "Sosa",
+      "birthday": "2000-04-07",
+      "image_url": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": 13,
+      "email": "tomas.vargas@example.com",
+      "password": "Password123!",
+      "first_name": "Tomas",
+      "last_name": "Vargas",
+      "birthday": "1993-05-26",
+      "image_url": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": 14,
+      "email": "belen.acosta@example.com",
+      "password": "Password123!",
+      "first_name": "Belen",
+      "last_name": "Acosta",
+      "birthday": "1996-10-28",
+      "image_url": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": 15,
+      "email": "sebastian.romero@example.com",
+      "password": "Password123!",
+      "first_name": "Sebastian",
+      "last_name": "Romero",
+      "birthday": "1987-07-03",
+      "image_url": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": 16,
+      "email": "rocio.cabrera@example.com",
+      "password": "Password123!",
+      "first_name": "Rocio",
+      "last_name": "Cabrera",
+      "birthday": "1998-01-11",
+      "image_url": "https://i.pravatar.cc/150?img=16"
+    },
+    {
+      "id": 17,
+      "email": "facundo.pereira@example.com",
+      "password": "Password123!",
+      "first_name": "Facundo",
+      "last_name": "Pereira",
+      "birthday": "1992-03-17",
+      "image_url": "https://i.pravatar.cc/150?img=17"
+    },
+    {
+      "id": 18,
+      "email": "carolina.ayala@example.com",
+      "password": "Password123!",
+      "first_name": "Carolina",
+      "last_name": "Ayala",
+      "birthday": "1994-12-19",
+      "image_url": "https://i.pravatar.cc/150?img=18"
+    },
+    {
+      "id": 20,
+      "email": "florencia.silva@example.com",
+      "password": "Password123!",
+      "first_name": "Florencia",
+      "last_name": "Silva",
+      "birthday": "1997-09-25",
+      "image_url": "https://i.pravatar.cc/150?img=20"
+    }
+  ]
+}
